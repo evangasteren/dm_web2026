@@ -1,8 +1,9 @@
 # DATA MANAGEMENT and WEB DESIGN (4TPU257U)
 
+
 ![Course Logo](.fig/logo.png)
 
-Welcome to the DM WEB course. In this course, you will learn how to create nice charts, graphs, and dashboards using Python. 
+Welcome to the [DM WEB course](https://celcat.u-bordeaux.fr/calendar/cal?vt=agendaWeek&dt=2025-01-27&et=module&eid=-390114417:-898552971:4:1325816:23&fid0=4TPU257U%20Data%20Management%20Web%20design). In this course, you will learn how to create nice charts, graphs, and dashboards using Python. 
 
 
 
@@ -16,12 +17,13 @@ Welcome to the DM WEB course. In this course, you will learn how to create nice 
    - [Ok. But why Python?](#ok-but-why-python)
 - [Libraries We Will Use in This Course](#libraries-we-will-use-in-this-course)
 - [From Where Does the Material for This Course Come?](#from-where-does-the-material-for-this-course-come)
-
----
-
-
+- [How Will I Be Evaluated?](#how-will-i-be-evaluated)
+   - [About the Grades During the Course](#about-the-grades-during-the-course)
+   - [Important Notes](#important-notes)
+- [Course Agenda](#course-agenda)
 
 ## Q&A
+
 
 ### Ok, but why is that important?
 
@@ -69,11 +71,30 @@ Currently, this course has two main sources:
 
 This list will be updated throughout the course, including more advanced topics that will not be covered in the course (for students who aspire to become Python experts like Plato).
 
----
-[^1]: This is actually not a joke.
 
 
-## Course Agenda (Work in Progress)
+## How Will I Be Evaluated?
+
+You will be evaluated all the time. Yes! I’m evaluating you right now, as you read this text[^1]. Okay, not *exactly* right now, but you get the idea.
+
+### About the Grades During the Course  
+
+You will have one primary task: exercise lists.  
+“Oh no, am I going to have to do exercises every week?” – Of course not! But you will have a few lists (at least 4 of them), and your grade will be determined based on these lists. Here's how it will work:  
+- I’ll give you the exercise list along with a deadline.  
+- You will create a Jupyter Notebook to answer the list.  
+- Once completed, send it to **luan.teylo@inria.fr**.  
+- I will evaluate your submission and assign your grade.  
+
+### Important Notes  
+This is **very important**: If you don’t submit the list by the deadline, you will not receive a grade for it.  
+
+Are the exercises tricky? No, they aren’t. The lists will cover the topics we’ve discussed in class, so don’t worry.  
+
+To summarize: the exercises are the **only evaluation** in this course. If you complete them, I’ll be happy, you’ll be happy, and even my cat will be happy. Please don’t make my cat sad!
+
+
+## Course Agenda 
 
 1. **Getting Started**
    - Presentation of the course
@@ -108,8 +129,22 @@ This list will be updated throughout the course, including more advanced topics 
    - Area Plots
    - Bar plot
    - Histograms 
-   
+
+7. **Getting Started with Iterative Plots Using the Plotly Library**  
+   - Line Plot  
+   - Plotly Templates  
+   - Scatter Plot  
+   - Bar Plot & Histograms  
+   - Bubble Plot  
+   - Pie Plot & Sunburst Charts  
+
+8. **Creating Dashboards with Plotly & Streamlit – Here Comes the Web Part**  
+   - Columns  
+   - Sidebar  
+   - Markdown  
+   - Plot Integration  
 
 
 
-
+---
+[^1]: This is actually not a joke.
