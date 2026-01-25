@@ -9,6 +9,16 @@ For this class, I recommend the use of Linux, preferably Debian-based systems li
 ### Installing Conda on Linux
 
 1. **Download Miniconda Installer**:
+
+   **Option A - Using wget (easiest method, recommended for CREMI machines):**
+
+   On CREMI machines and Linux in general, the easiest way to download Miniconda is directly from the terminal using `wget`:
+   ```bash
+   wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+   ```
+   This will download the installer to your current directory. Then skip to step 5 to run the installer.
+
+   **Option B - Using a browser:**
    - Visit the [Miniconda download page](https://docs.conda.io/en/latest/miniconda.html).
    - Select the `Miniconda3 Linux 64-bit` installer for Linux.
 
