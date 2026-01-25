@@ -136,11 +136,11 @@ Just download each class directly from the course repository:
 2. Click the green "Code" button and select "Download ZIP"
 3. Extract the files to your computer
 
-Repeat this for each new class or when the teacher updates the materials.
+Repeat this for each new class or when I update the materials.
 
 ### Option B: Fork the repository (recommended)
 
-This option lets you keep your own copy, save your work online, and easily get updates from the teacher.
+This option lets you keep your own copy, save your work online, and easily get my updates.
 
 **1. Create a GitHub account**
 
@@ -165,15 +165,15 @@ cd dm_web2026
 git remote add upstream https://github.com/luanteylo/dm_web2026.git
 ```
 
-**5. Get updates from the teacher (without losing your work)**
+**5. Get my updates (without losing your work)**
 
-When the teacher adds new materials:
+When I add new materials:
 ```bash
 # Save your current work first
 git add .
 git commit -m "My work"
 
-# Get updates from the teacher
+# Get my updates
 git fetch upstream
 git merge upstream/main
 
@@ -191,8 +191,8 @@ git push
 | `git add .` | Stages all changes |
 | `git commit -m "message"` | Saves your changes |
 | `git push` | Uploads to your fork |
-| `git fetch upstream` | Gets teacher updates |
-| `git merge upstream/main` | Applies teacher updates |
+| `git fetch upstream` | Gets my updates |
+| `git merge upstream/main` | Applies my updates |
 
 ---
 
