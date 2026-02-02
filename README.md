@@ -5,7 +5,9 @@
 
 Welcome to the [DM WEB course](https://celcat.u-bordeaux.fr/calendar/cal?vt=agendaWeek&dt=2026-01-26&et=module&fid0=4TPU257U%20Data%20Management%20Web%20design). In this course, you will learn how to create nice charts, graphs, and dashboards using Python. 
 
+# Deadlines
 
+- exercise-01 -  **Hard Deadline: 16/02/2026**
 
 
 # Table of Contents
